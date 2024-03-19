@@ -5,3 +5,6 @@ Exp 2- Prediction of Loan Approval
 
 
 Exp 3- Prediction of Traffic
+
+
+Exp 4- Prediction of class of user
