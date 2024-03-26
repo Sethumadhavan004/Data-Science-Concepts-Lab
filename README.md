@@ -8,3 +8,6 @@ Exp 3- Prediction of Traffic
 
 
 Exp 4- Prediction of class of user
+
+
+Exp 5- Prediction of Hate tweets
